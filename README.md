@@ -1,0 +1,1 @@
+# local_splines_degenerate_equations
